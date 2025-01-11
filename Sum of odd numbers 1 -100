@@ -13,3 +13,6 @@ class SumOfNum
  System.out.println("The Sum Of 100 Odd Numbers are:" + sum);
  }
  }
+
+OUTPUT:
+The Sum Of 100 Odd Numbers are:2500
